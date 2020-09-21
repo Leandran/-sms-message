@@ -1,2 +1,2 @@
 # -sms-message
-Project to simulate an sms messgae
+Project to simulate an sms message
